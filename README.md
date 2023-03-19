@@ -5,9 +5,9 @@ Hi there! I'm Massy, a self-taught Data Analyst from Uganda. After graduating wi
 In my portfolio, you can find my [projects](https://github.com/alumassy/Portfolio-Guide.git) and case studies on data analytics.
 
 ## 💡 My Skills
-- Data preparation, quality assurance, and analysis
-- Database design and modelling
-- Dashboard development and reporting
+- Data preparation/data querying, quality assurance, and analysis
+- Data modelling
+- Dashboard development, data storytelling and reporting
 - Exploratory data analysis
 
 ## 🛠️ My Tools
