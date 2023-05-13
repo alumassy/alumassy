@@ -1,5 +1,5 @@
 # Introducing Myself 🙋🏻‍♀️
-Hi there! I'm Massy, a self-taught Data Analyst from Uganda. After graduating with a Bachelors degree in Business Administration(Finance) in May 2022, I decided to explore my interest in data and I have been teaching myself SQL, Python, Tableau and PowerBi ever since.
+Hi there! I'm Massy, a self-taught Data Analyst. After graduating with a Bachelors degree in Business Administration(Finance) in May 2022, I decided to explore my interest in data and I have been teaching myself SQL, Python, Tableau and PowerBi ever since.
 
 ## 📚 Projects 
 In my portfolio, you can find my [projects](https://github.com/alumassy/Portfolio-Guide.git) and case studies on data analytics.
