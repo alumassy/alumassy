@@ -1,8 +1,8 @@
 # Introducing Myself 🙋🏻‍♀️
-Hi there! I'm Massy, a self-taught Data Analyst. After graduating with a Bachelors degree in Business Administration(Finance) in May 2022, I decided to explore my interest in data and I have been teaching myself SQL, Python, Tableau and PowerBi ever since.
+Hi there! I'm Massy, a Data Analyst levelling up my skills in the field mainly through self-study and hands-on projects.
 
 ## 📚 Projects 
-In my portfolio, you can find my [projects](https://github.com/alumassy/Portfolio-Guide.git) and case studies on data analytics.
+In my portfolio, you can find my [projects](https://github.com/alumassy/Portfolio-Guide.git) and case studies on data analysis.
 
 ## 💡 My Skills
 - Data preparation/data querying, quality assurance, and analysis
