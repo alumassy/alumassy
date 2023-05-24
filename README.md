@@ -13,7 +13,7 @@ In my portfolio, you can find my [projects](https://github.com/alumassy/Portfoli
 ## 🛠️ My Tools
 - Databases: SQL (PostgreSQL, MySQL, SQL Server, Google BigQuery), Excel
 - Python: NumPy, Pandas
-- Visualisation: Tableau, Matplotlib, Seaborn
+- Visualisation: PowerBi, Tableau, Matplotlib, Seaborn, Plotly Express
 ---
 ### 🔍 Still curious about me?
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/alumassy/)
