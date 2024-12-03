@@ -22,4 +22,4 @@ In my portfolio, you can find my [projects](https://github.com/alumassy/Portfoli
 ---
 ### 🔍 Still curious about me?
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/alumassy/)
-- Check out my data-related articles on [Hashnode](https://alumassy.hashnode.dev/) 
+- Check out my data-related articles on [DEV](https://dev.to/alumassy) 
